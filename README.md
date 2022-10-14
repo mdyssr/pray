@@ -5,7 +5,7 @@
 ### How to install the app?
 
 Download a binary:
-**you can download a binary for your OS from the [releases page](https://github.com/mdyssr/prayer-times-cli/releases)**
+**you can download a binary for your OS from the [releases page](https://github.com/mdyssr/pray/releases)**
 
 *or*
 
