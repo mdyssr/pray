@@ -1,6 +1,8 @@
 ## A CLI app to show Islamic prayer times & Hijri date
 
-### How to get the app?
+![demo](pray.gif)
+
+### How to install the app?
 
 Download a binary:
 **you can download a binary for your OS from the [releases page](https://github.com/mdyssr/prayer-times-cli/releases)**
